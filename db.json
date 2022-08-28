@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "juan",
+      "empresa": "juan",
+      "email": "juan@juan.com",
+      "telefono": "123123123",
+      "notas": "hablame felipiano",
+      "id": 1
+    },
+    {
+      "nombre": "Paola",
+      "empresa": "polar",
+      "email": "pjffm@gmail.com",
+      "telefono": "04248506055",
+      "notas": "nfejrgvea\n",
+      "id": 2
+    },
+    {
+      "nombre": "felipe",
+      "empresa": "Toyota",
+      "email": "felipe@felipe.com",
+      "telefono": "0426123412",
+      "notas": "Bienvenido a mi empresa ",
+      "id": 3
+    }
+  ]
+}
